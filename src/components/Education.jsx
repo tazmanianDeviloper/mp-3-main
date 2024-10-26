@@ -1,7 +1,7 @@
 import { styled } from 'styled-components'
 import bu from '../images/bu.jpg'
 import bxsci from '../images/bxsci.jpg'
-import PageLayout from './PageLayOut'
+import PageLayout from './PageLayout.jsx'
 
 export default function Education() {
     return (

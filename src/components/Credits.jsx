@@ -1,5 +1,5 @@
 import { styled } from 'styled-components';
-import PageLayout from './PageLayOut';
+import PageLayout from './PageLayout.jsx'
 
 export default function Credits() {
     return (
