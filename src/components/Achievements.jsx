@@ -1,5 +1,4 @@
-import { styled } from 'styled-components'
-import PageLayout from './PageLayOut'
+import PageLayout from './PageLayout.jsx'
 import dl from '../images/dl.jfif'
 export default function Achievements() {
     return (
@@ -10,3 +9,4 @@ export default function Achievements() {
         </PageLayout>
     )
 }
+
