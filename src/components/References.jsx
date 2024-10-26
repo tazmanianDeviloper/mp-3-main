@@ -1,5 +1,5 @@
 import { styled } from 'styled-components'
-import PageLayout from './PageLayOut.jsx'
+import PageLayout from './PageLayout.jsx'
 
 export default function References() {
     return (
