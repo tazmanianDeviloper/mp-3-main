@@ -1,5 +1,5 @@
 import { styled } from 'styled-components';
-import PageLayout from './PageLayOut';
+import PageLayout from './PageLayOut.jsx';
 import Calculator from './Calculator';
 
 export default function Projects() {
